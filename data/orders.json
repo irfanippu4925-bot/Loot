@@ -1,0 +1,87 @@
+[
+  {
+    "id": "LOOT-8142",
+    "createdAt": "2026-11-05T09:30:00.000Z",
+    "customerName": "Rahul Verma",
+    "customerPhone": "+91 9876543210",
+    "deliveryAddress": "Flat 402, Signature Heights, MG Road, Bengaluru, Karnataka - 560001",
+    "notes": "Please gift wrap with luxury gold ribbon. Thank you!",
+    "paymentMethod": "WhatsApp Verification",
+    "items": [
+      {
+        "id": 1,
+        "name": "ROYAL OUD",
+        "size": "50ml",
+        "price": 799,
+        "qty": 1,
+        "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=600"
+      },
+      {
+        "id": 3,
+        "name": "GOLDEN MUSK",
+        "size": "50ml",
+        "price": 699,
+        "qty": 1,
+        "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=600"
+      }
+    ],
+    "subtotal": 1498,
+    "shipping": 0,
+    "discount": 0,
+    "total": 1498,
+    "status": "Confirmed via WhatsApp",
+    "trackingHistory": [
+      {
+        "time": "2026-11-05T09:30:00.000Z",
+        "status": "Order Placed",
+        "desc": "Order verified with LOOT PERFUMES atelier."
+      },
+      {
+        "time": "2026-11-05T10:15:00.000Z",
+        "status": "Confirmed via WhatsApp",
+        "desc": "Nasif Ali confirmed bottle selection and batch preparation."
+      }
+    ]
+  },
+  {
+    "id": "LOOT-8141",
+    "createdAt": "2026-11-04T15:20:00.000Z",
+    "customerName": "Fatima Zahra",
+    "customerPhone": "+91 9123456789",
+    "deliveryAddress": "Villa 12, Palm Meadows, Calicut, Kerala - 673001",
+    "notes": "Call before delivery please.",
+    "paymentMethod": "UPI / QR Code",
+    "items": [
+      {
+        "id": 4,
+        "name": "OUD ARABIA",
+        "size": "50ml",
+        "price": 1199,
+        "qty": 1,
+        "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?w=600"
+      }
+    ],
+    "subtotal": 1199,
+    "shipping": 0,
+    "discount": 0,
+    "total": 1199,
+    "status": "Dispatched",
+    "trackingHistory": [
+      {
+        "time": "2026-11-04T15:20:00.000Z",
+        "status": "Order Placed",
+        "desc": "Order received via UPI confirmation."
+      },
+      {
+        "time": "2026-11-04T16:00:00.000Z",
+        "status": "Artisan Handcrafted",
+        "desc": "Fragrance bottle sealed and inspected."
+      },
+      {
+        "time": "2026-11-05T08:00:00.000Z",
+        "status": "Dispatched",
+        "desc": "Handed over to Express Courier (BlueDart / Delhivery)."
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "productName": "ROYAL OUD",
+    "customerName": "Zain Al-Mansoor",
+    "city": "Bengaluru",
+    "rating": 5,
+    "date": "2026-10-24",
+    "title": "Unmatched depth and 18-hour projection",
+    "comment": "The Cambodian oud and saffron combination is extraordinarily well-blended. Applied at 8 AM, and people were still asking what I was wearing at dinner. Easily rivals niche French houses at 4x the price.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": 2,
+    "productId": 2,
+    "productName": "MIDNIGHT",
+    "customerName": "Arjun Menon",
+    "city": "Kochi",
+    "rating": 5,
+    "date": "2026-10-28",
+    "title": "The most seductive vanilla and amber drydown",
+    "comment": "Nasif Ali crafted a gem here. The opening is smooth vanilla and tonka, but the smoky amber and tobacco drydown is where Midnight truly shines. Received my order via WhatsApp in 2 days.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "productName": "GOLDEN MUSK",
+    "customerName": "Meera Nambiar",
+    "city": "Mumbai",
+    "rating": 5,
+    "date": "2026-10-15",
+    "title": "Clean, creamy, and whispers pure luxury",
+    "comment": "Subtle yet magnetic. It isn't loud or harsh; it creates this golden, honeyed musk cloud around you. Excellent craftsmanship.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": 4,
+    "productId": 4,
+    "productName": "OUD ARABIA",
+    "customerName": "Kareem Farooqi",
+    "city": "Hyderabad",
+    "rating": 5,
+    "date": "2026-11-01",
+    "title": "Authentic Dehn Al Oud excellence",
+    "comment": "As an avid oud collector, finding authentic aged Indian oud at ₹1,199 is practically impossible. The birch tar and rose balance is regal. Ordered directly on WhatsApp, great service from Nasif.",
+    "verifiedPurchase": true
+  }
+]
+
